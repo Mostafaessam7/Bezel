@@ -1,3 +1,3 @@
 # Bezel
 
-website link : https://mostafaessam7.github.io/Bezel/
+**Go to a website** [Click Here](https://mostafaessam7.github.io/Bezel/)
